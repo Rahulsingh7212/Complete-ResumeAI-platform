@@ -23,7 +23,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:3000",
-        "https://your-vercel-app.vercel.app",  # add later
+        "https://complete-resume-ai-platform.vercel.app/",  # add later
     ],
     allow_credentials=True,
     allow_methods=["*"],
