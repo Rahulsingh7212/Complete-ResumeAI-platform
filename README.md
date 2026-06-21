@@ -11,8 +11,8 @@
 
 ## 🚀 Live Demo
 
-**Frontend:** [https://resume-ai.vercel.app](https://resume-ai.vercel.app)
-**Backend API:** [https://resume-ai-backend.up.railway.app/docs](https://resume-ai-backend.up.railway.app/docs)
+**Frontend:** [https://complete-resume-ai-platform-p8kt-3ibsr9itj.vercel.app/](https://complete-resume-ai-platform-p8kt-3ibsr9itj.vercel.app/)
+**Backend API:** [https://complete-resumeai-platform-production.up.railway.app/](https://complete-resumeai-platform-production.up.railway.app/)
 
 ---
 
